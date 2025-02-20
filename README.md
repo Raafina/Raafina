@@ -1,13 +1,9 @@
-<h1>Hi there! 👋</h1>
-<h2>I'm Raafi Nur Adzani</h2>
-<h3>🚀 Fullstack Web Developer | Tech Enthusiast</h3>
+<p>Hi there! 👋</p>
+<p>I'm Raafi Nur Adzani</p>
+<p>🚀 Fullstack Web Developer | Tech Enthusiast</p>
 
 ### 🧑‍💻 About Me  
-🎓 **Undergraduate Student** at **Dian Nuswantoro University, Semarang** (Teknik Informatika)  
-💡 Passionate about **Fullstack Web Development & Data Science**  
-💻 Experienced in **analyzing and developing websites**  
-🔍 Always curious and excited about learning new technologies  
-🎯 Love challenges and problem-solving  
+I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, Semarang. I am an individual who can work both independently and in a team, can solve problems in the best way, always curious about new things and enjoys challenges. Have experience on analyzing and developing website. Would like to add more knowledge and insight into further software and data science.
 
 ### 🛠️ Tech Stack  
 
