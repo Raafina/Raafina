@@ -1,8 +1,5 @@
 ### Hi there! I'm Raafi Nur Adzani👋 
 
-### 🧑‍💻 About Me  
-Fullstack Web Developer | Tech Enthusiast
-
 I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, Semarang. I am an individual who can work both independently and in a team, can solve problems in the best way, always curious about new things and enjoys challenges. Have experience on analyzing and developing website. Would like to add more knowledge and insight into further software and data science.
 
 ### 🛠️ Tech Stack  
@@ -25,5 +22,3 @@ I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-F7F7F7?style=for-the-badge&logo=vercel&logoColor=black">
 </p>
-
-
