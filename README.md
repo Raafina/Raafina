@@ -1,8 +1,8 @@
-<h1>Hi there! 👋 I'm Raafi Nur Adzani</h1>  
+<h1>Hi there! 👋</h1>  
+<h2>Raafi Nur Adzani</h1>
 <h3>Fullstack Web Developer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
+I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, Semarang. I am an individual who can work both independently and in a team, can solve problems in the best way, always curious about new things and enjoys challenges. Have experience on analyzing and developing website. Would like to add more knowledge and insight into further software and data science.
 
-<p>I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, Semarang. I am an individual who can work both independently and in a team, can solve problems in the best way, always curious about new things and enjoys challenges. Have experience on analyzing and developing website. Would like to add more knowledge and insight into further software and data science.</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
