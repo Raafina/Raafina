@@ -5,7 +5,7 @@ I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, 
 ### Tech Stack  
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/Next-white?style=for-the-badge&logo=nextdotjs&logoColor=black">
   <img src="https://img.shields.io/badge/Express.js-F7DF1E?style=for-the-badge&logo=express&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
