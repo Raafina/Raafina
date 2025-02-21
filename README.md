@@ -4,8 +4,8 @@ I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, 
 
 ### Tech Stack  
 <p>
- <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Next-white?style=for-the-badge&logo=nextdotjs&logoColor=black">
   <img src="https://img.shields.io/badge/Express-F7DF1E?style=for-the-badge&logo=express&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -23,5 +23,4 @@ I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-F7F7F7?style=for-the-badge&logo=vercel&logoColor=black">
-</p>
 </p>
