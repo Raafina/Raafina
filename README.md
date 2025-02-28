@@ -7,4 +7,7 @@ I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, 
 <p>
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Laravel/LaravelTransparent.png" width="20%">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Next.js/Next.js.png" width="20%" >
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/React/React.png" width="20%" >
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Node.js/Node.js.png" width="20%" >
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/TypeScript/TypeScript.png" width="20%" >
 </p>
