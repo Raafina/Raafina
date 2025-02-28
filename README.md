@@ -5,6 +5,6 @@ I am an undergraduate student Teknik Informatika at Dian Nuswantoro University, 
 ### Tech Stack  
 
 <p>
-  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Laravel/LaravelTransparent.png" >
+  <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Laravel/LaravelTransparent.png" width="10%">
   <img src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/Next.js/Next.js.png" >
 </p>
